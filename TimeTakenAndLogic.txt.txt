@@ -1,0 +1,15 @@
+Logic Behind the Code
+
+1. Taken a input as a float value from user and given to a function that will return expected output string
+2. convertToWords Function take input as value given by users.
+3. Again we called numToWords function, as this function gives us a expected string fot that decimal place in ipnut string
+4. numToWords function gives us expected output with concatination of combination of index of one and ten array if output is greater than 19, if not then number will be exact two digit number.
+5. Finally for addition of /100, have used power of 10 where it been calculated with typecasting the element into expected output string.
+
+
+
+Time Taken by me to Finish the Project is 2.5 hrs
+
+Desiging - 1.5 hr
+Coding - 30 mins
+Testing - 30 mins
